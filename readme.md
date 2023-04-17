@@ -12,7 +12,7 @@ Developed by CaliPanni
 |GUI        |Yes|  [1.0](https://github.com/CaliPanni/owp/releases/download/setup/OWP_GUI.exe)
 |Via Terminal (Only Windows 8.1/10/11)       |Yes |Guide Below
 
-##Install via Terminal
+## Install via Terminal
 -   On Windows 8.1/10/11, right-click on the windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy-paste the below code and press enter
    ```
