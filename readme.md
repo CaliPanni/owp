@@ -17,6 +17,6 @@ Developed by CaliPanni
 -   Copy-paste the below code and press enter
    ```
    irm https://calipanni.github.io/owp.ps1 | iex
-    ```
+   ```
 -   Now follow onscreen instructions.
 -   That's all.
